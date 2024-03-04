@@ -1,7 +1,7 @@
 
 # J.A.R.V.I.S - Python AI Personal Assistant
 
-.A.R.V.I.S (Just A Rather Very Intelligent System) is a Python-based AI personal assistant designed to assist users with a wide range of tasks using natural language processing (NLP) and artificial intelligence (AI) technologies.
+**J.A.R.V.I.S** (Just A Rather Very Intelligent System) is a Python-based AI personal assistant designed to assist users with a wide range of tasks using natural language processing (NLP) and artificial intelligence (AI) technologies.
 ## Features
 
 - **Speech Recognition and Synthesis:** J.A.R.V.I.S can understand spoken commands and respond with synthesized speech, providing a natural interaction experience.
